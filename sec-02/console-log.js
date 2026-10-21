@@ -5,3 +5,5 @@ console.log(`Essa função exibe no console`); // ou com sinais de crase, o que 
 const firstName = 'Márcia';
 const age = 36;
 console.log(`${firstName}, tem ${age} anos.`); // isso é uma template strings
+
+console.log("Nova linha a ser exibida no console");
